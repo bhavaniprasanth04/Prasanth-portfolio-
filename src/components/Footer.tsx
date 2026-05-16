@@ -66,8 +66,8 @@ export function Footer() {
             <div className="flex flex-col gap-4 text-slate-400 font-light mb-8">
               <div className="flex items-center gap-3">
                 <Mail className="w-5 h-5 text-orange-400" />
-                <a href="mailto:prasanth.anupoju@sasi.ac.in" className="hover:text-white transition-colors">
-                  prasanth.anupoju@sasi.ac.in
+                <a href="mailto:anupojubhavani9849@gmail.com" className="hover:text-white transition-colors">
+                  anupojubhavani9849@gmail.com
                 </a>
               </div>
               <div className="flex items-center gap-3">
